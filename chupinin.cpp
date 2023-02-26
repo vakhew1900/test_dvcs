@@ -5,3 +5,6 @@ for(int i = 0; i  < n; i++) {
 if (isAlive()){
 	do_suicide();
 }
+
+
+fuck yourself
